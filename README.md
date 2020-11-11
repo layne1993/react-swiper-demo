@@ -1,2 +1,3 @@
-# react-swiper-demo
-demos with use swiper/react hook  
+## swiper-demo
+
+### 使用swiper/react以及相关的扩展包编写demo
